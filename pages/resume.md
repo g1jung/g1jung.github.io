@@ -2,5 +2,5 @@
 layout: default
 title: Resume
 weight: 4
-#permalink: /assets/resume/JiwonJung_resume.pdf/
+permalink: https://g1jung.github.io/assets/JiwonJung_resume.pdf
 ---
