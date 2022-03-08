@@ -7,4 +7,4 @@ weight: 4
 
 # **Resume**
 
-<embed src="../assets/JiwonJung_resume.pdf" width="100%" height="980px" />
+<embed src="../assets/resume.pdf" width="100%" height="980px" />
