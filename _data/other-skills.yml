@@ -8,7 +8,7 @@
 
 - name: Git
   percentage: 95
-  color: light
+  color: dark
 
 - name: SVN
   percentage: 95
