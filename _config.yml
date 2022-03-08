@@ -83,8 +83,6 @@ defaults:
     values:
       comments: false                                   # Set to true to enable disqus comments
 
-external_url: https://google.com/
-
 ### Exclude from processing ###
 exclude:
   - README.md
