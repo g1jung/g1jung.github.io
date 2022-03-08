@@ -15,7 +15,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-# **Experience**
+### **Education**
+
+![DigiPen logo](/assets/aboutme/DigiPen_Logo.jpg){: .image-left }
+BS, **DigiPen Institute of Technology** 2015 - 2022
+Computer Science and Game Design
+
+### **Experience**
 <div class="row">
 {% include about/timeline.html %}
 </div>
