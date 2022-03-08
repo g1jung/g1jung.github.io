@@ -34,7 +34,6 @@ BS, **DigiPen Institute of Technology** 2015 - 2022<br>
 Computer Science and Game Design
 <br>
 <br>
-<br>
 
 ---
 
