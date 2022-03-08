@@ -1,9 +1,8 @@
 ### Site Settings ###
 title               : Jiwon Jung
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Hello, I am Jiwon.
+                      This is my website to show my projects and experience. 
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : g1jung/g1jung.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
