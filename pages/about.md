@@ -5,6 +5,14 @@ permalink: /about/
 weight: 3
 ---
 
+<style type="text/css">
+.image-left {
+	display: block; 
+	padding-right: 14px;
+	float: left;
+}
+</style>
+
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
