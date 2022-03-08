@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Jiwon Jung
 description         : >-
-                      Hello, I am Jiwon - Programmer focused on Game AI,
+                      Hello, I am Jiwon - Software Engineer focused on Game AI,
                       programming, game development and interested in VR/AR
 
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
@@ -14,6 +14,7 @@ markdown            : kramdown
 ### Plugins ###
 plugins:
   - jemoji
+  - jekyll-remote-theme
 
 
 ### Navbar Settings ###
