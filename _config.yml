@@ -1,8 +1,9 @@
 ### Site Settings ###
 title               : Jiwon Jung
 description         : >-
-                      Hello, I am Jiwon.
-                      This is my website to show my projects and experience. 
+                      Hello, I am Jiwon - Programmer focused on Game AI,
+                      programming, game development and interested in VR/AR
+
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : g1jung/g1jung.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
