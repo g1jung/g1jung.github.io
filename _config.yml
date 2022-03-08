@@ -25,7 +25,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : John Doe
-  image             : https://i.imgur.com/uyDNQnn.jpg
+  image             : .../g1jung.github.io/assets/home/4.jpg #https://i.imgur.com/uyDNQnn.jpg
   behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
