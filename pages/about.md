@@ -29,11 +29,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### **Education**
 
 ![DigiPen logo](/assets/aboutme/DigiPen_Logo.jpg){: .image-left }
-BS, **DigiPen Institute of Technology** 2015 - 2022
+<br>
+BS, **DigiPen Institute of Technology** 2015 - 2022<br>
 Computer Science and Game Design
 <br>
 <br>
-
+<br>
 ---
 
 ### **Experience**
