@@ -15,8 +15,7 @@ weight: 3
 
 # **Who am I?**
 
-I am a software engineer and a game developer with a passion for better life.
-I want to 
+I am a software engineer with the goal of creating vivid experiences that allow users to feel like they are stepping into a dream 
 <br>
 
 ---
