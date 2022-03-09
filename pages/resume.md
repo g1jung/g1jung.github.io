@@ -7,5 +7,4 @@ weight: 4
 
 # **Resume**
 <br>
-<br>
 <embed src="../assets/resume.pdf" width="100%" height="980px" />
