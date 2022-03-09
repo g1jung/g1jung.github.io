@@ -13,10 +13,10 @@ weight: 3
 }
 </style>
 
-# **About Me**
+# **Who am I?**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I am a software engineer and a game developer with a passion for better life.
+I want to 
 <br>
 
 ---
