@@ -4,7 +4,7 @@ description         : >-
                       Hello, I am Jiwon
                       <br/>
                       <strong>Software Engineer</strong> focused on <strong>AI</strong>, <strong>VR/AR</strong>, 
-                      <br/> <strong>Programming</strong>& <strong>Game Development</strong>.
+                      <br/> <strong>Programming</strong> & <strong>Game Development</strong>.
 
 baseurl             : ""                                # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : g1jung/g1jung.github.io           # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
