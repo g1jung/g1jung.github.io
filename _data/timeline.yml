@@ -1,11 +1,11 @@
 - title: <strong>Teaching Assistant</strong><br/> <font size="4">DigiPen Institute of Technology</font>
   from: Feb 2021
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: <ul>
+               <li> Assisted professor in 3 classes by helping students to understand c++ and its object-oriented features or C# to further their understanding of core topics</li>
+               <li> Coached C language skills from the basic by lectures and help them acquire the C language by quizes and assignments.</li>
+               <li> Led Tank game project so that students can understand how to adapt C language in the project and how game programming and simple AI works</li>
+               </ul>
 
 - title: <strong>Highschool Programming Lecturer</strong><br/> <font size="4">DigiPen Institute of Technology</font>
   from: Nov 2021
