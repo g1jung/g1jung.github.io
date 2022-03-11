@@ -15,6 +15,7 @@ weight: 3
 
 # **Who am I?**
 
+<br>
 I am a software engineer and game developer with the goal of creating vivid experiences that allow users to feel like they are stepping into a dream. I specialize in Game AI, Software Engineering, Gameplay Programming and VR/AR. With my specialities, I want to make applications that gives extraordinary experience to users which immerse into the application or programs which seeped into life.
 <br>
 <br>
