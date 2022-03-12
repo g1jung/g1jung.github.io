@@ -69,7 +69,7 @@ disqus:
 
 ### Analytics ###
 analytics:
-  enabled: true                                        # Set true to enable analytics
+  enabled: false                                        # Set true to enable analytics
   google:
     tracking_id: G-R7N2XVNE51
 
