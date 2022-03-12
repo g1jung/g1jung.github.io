@@ -93,9 +93,9 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - (1) PlaceHolder Project.md
-  - (2) Awesome Project.md
-  - (3) Empty Project.md
-  - (4) VVG on GitHub.md
-  - (5) The Fabulous.md
-  - (6) Dummy Project.md
+  - _projects/(1) PlaceHolder Project.md
+  - _projects/(2) Awesome Project.md
+  - _projects/(3) Empty Project.md
+  - _projects/(4) VVG on GitHub.md
+  - _projects/(5) The Fabulous.md
+  - _projects/(6) Dummy Project.md
