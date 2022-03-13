@@ -94,7 +94,7 @@ exclude:
   - LICENSE
   - "*.log"
   - _projects/(1) PlaceHolder Project.md
-  #- _projects/(2) Awesome Project.md
+  - _projects/(2) Awesome Project.md
   - _projects/(3) Empty Project.md
   - _projects/(4) VVG on GitHub.md
   - _projects/(5) The Fabulous.md
