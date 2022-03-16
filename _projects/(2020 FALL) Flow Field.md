@@ -2,5 +2,5 @@
 name: <strong>Flow Field Project</strong> 
 tools: [C++, Custom Engine, AI, Visualizer, Flow Field, 2D]
 image: https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/Flow%20Field/380project_title.PNG?raw=true
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: This project shows flow field with the multiple units. Each units will have random position and they will show how they works on the flow field. I implemented all algorithm and frontend parts in this program.
 ---
