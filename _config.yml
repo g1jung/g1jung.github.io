@@ -32,13 +32,13 @@ author:
   image             : assets/home/4.jpg       #https://i.imgur.com/uyDNQnn.jpg
 # behance           : your_username
 # dribbble          : your_username
-  email             : jjwon6218@gmail.com
+#  email             : jjwon6218@gmail.com
 # facebook          : your_username
-  github            : g1jung
+#  github            : g1jung
 # gitlab            : your_username
-  instagram         : aeffines
+#  instagram         : aeffines
 # kaggle            : your_username
-  linkedin          : jiwon-jung-608a01209
+#  linkedin          : jiwon-jung-608a01209
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -99,3 +99,4 @@ exclude:
   - _projects/(4) VVG on GitHub.md
   - _projects/(5) The Fabulous.md
   - _projects/(6) Dummy Project.md
+  - _data/social-media.yml
