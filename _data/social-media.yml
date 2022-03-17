@@ -22,7 +22,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://github.com/g1jung
   icon  : fab fa-github
   color : 333333
 
@@ -43,7 +43,7 @@ kaggle:
 
 linkedin:
   url   : https://www.linkedin.com/in/
-  icon  : fab fa-linkedin-in
+  icon  : fab fa-linkedin
   color : 007bb5
 
 medium:
