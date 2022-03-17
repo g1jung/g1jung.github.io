@@ -12,7 +12,7 @@ dribbble:
   color : 444444
 
 email:
-  url   : "mailto:"
+  url   : "jjwon6218@gmail.com"
   icon  : fas fa-envelope
   color : db4437
 
@@ -22,7 +22,7 @@ facebook:
   color : 3b5998
 
 github:
-  url   : https://www.github.com/
+  url   : https://github.com/g1jung
   icon  : fab fa-github
   color : 333333
 
@@ -32,7 +32,7 @@ gitlab:
   color : fca326
 
 instagram:
-  url   : https://www.instagram.com/
+  url   : https://www.instagram.com/aeffines/
   icon  : fab fa-instagram
   color : 405de6
   
@@ -42,7 +42,7 @@ kaggle:
   color : 20beff
 
 linkedin:
-  url   : https://www.linkedin.com/in/
+  url   : https://www.linkedin.com/in/jiwon-jung-608a01209/
   icon  : fab fa-linkedin-in
   color : 007bb5
 
