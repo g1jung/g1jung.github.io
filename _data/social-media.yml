@@ -12,7 +12,7 @@ dribbble:
   color : 444444
 
 email:
-  href  : "mailto:"
+  url   : "mailto:"
   icon  : fas fa-envelope
   color : db4437
 
