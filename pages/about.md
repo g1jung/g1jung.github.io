@@ -16,10 +16,10 @@ weight: 3
 # **Who am I?**
 
 <br>
-I am a software engineer and game developer with the goal of creating vivid experiences that allow users to feel like they are stepping into a dream. I specialize in Game AI, Software Engineering, Gameplay Programming and VR/AR. I want to make applications that gives extraordinary experience to users which immerse into the application or programs which seeped into life. 
+I am a software engineer and game developer with the goal of creating vivid experiences that allow users to feel like they are stepping into a dream. I specialize in Game AI, Software Engineering, Gameplay Programming and VR/AR. I want to make applications that give extraordinary experiences to users which immerse into the application or programs which seeped into life. 
 <br>
 <br>
-In addition to my software engineering skills, I am enjoying travelling, playing/watching soccer, gaming, learning new language and cultures and reading books. I have experienced a lot of cultures and fields. I am sure this will help me to fit into work whatever I will do in the future.
+In addition to my software engineering skills, I am enjoying traveling, playing/watching soccer, gaming, learning a new language and cultures and reading books. I have experienced a lot of cultures and fields. I am sure this will help me to fit into work whatever I will do in the future.
 <br>
 <br>
 
