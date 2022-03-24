@@ -1,11 +1,11 @@
 - name: C/C++
-  percentage: 90
+  percentage: 95
   color: 
 
 - name: C#
-  percentage: 70
+  percentage: 90
   color: secondary
 
 - name: Python
-  percentage: 50
+  percentage: 70
   color: danger
