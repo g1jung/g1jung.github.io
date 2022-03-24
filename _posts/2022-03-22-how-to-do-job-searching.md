@@ -6,6 +6,8 @@ color:
 description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
 ---
 
+From Roland Shum
+
 Hey everyone, as I've finished my job search I'd like to offer to help anyone with their technical interviews, whether by doing mock interviews or preparing for one. The following is what I used to prepare for big companies. Be aware that each company would do things differently; Epic likes to keep the technical questions small.
 
 Interview Breakdown
