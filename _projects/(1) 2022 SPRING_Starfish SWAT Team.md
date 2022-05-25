@@ -8,5 +8,8 @@ description: A VR hack and slash game implemented with Unity Engine.
 
 <br>
 Role: AI Programmer & Gameplay Programmer
+<br>
 Team Size: 4
+<br>
 Engine: Unity Engine
+<br>
