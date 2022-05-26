@@ -11,13 +11,17 @@ description: A VR hack and slash game implemented with Unity Engine.
 
 ### **Summary**
 
-<br>
 Role: AI Programmer & Gameplay Programmer
 <br>
 Team Size: 4
 <br>
 Engine: Unity Engine
 <br>
+<br>
 
 ### **About the Game**
 
+Kaiju Kablooey is a game where players play as a giant monster rampaging through a city. Kaiju Kablooey is an immersive Virtual Reality experience on the Oculus Quest 2.
+<br> 
+<br>
+The player will be taking the role of a giant monster, going through the destruction of a city by using their arms to smash buildings, tear buildings from their foundations, grab people, and throw objects, as well as use their head to aim a long range attack to blast buildings and people from afar. The buildings will have realistic and satisfying destruction. As the player continues through the game there will be a military that will progressively increase in force the more the player destroys. The player can either go through the city in a sandbox for however long they want, or choose a more goal oriented mode. 
