@@ -35,5 +35,8 @@ The player will be taking the role of a giant monster, going through the destruc
 
 I was the Game AI Programmer, generating all AI units with their algorithms. Here is the list what I contributed:
 <br>
-* The human AI
-
+* The goldilocks zone system which is applicable for a lot of AI units
+* Integration of traffic system alongside of car AI prefab
+* Human, Tank and soldier AI prefabs and AI algorithm by using Unity Navigation System
+* The targetting system for combat mode between AI units and the player
+<br>
