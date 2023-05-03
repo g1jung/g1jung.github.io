@@ -2,9 +2,9 @@
 layout: page
 title: Resume
 weight: 4
-#external_url: https://g1jung.github.io/assets/JiwonJung_resume.pdf
+#external_url: https://g1jung.github.io/assets/JiwonJung__resume.pdf
 ---
 
 # **Resume**
 <br>
-<embed src="../assets/JiwonJung_RESUME.pdf" width="100%" height="980px" />
+<embed src="../assets/JiwonJung__resume.pdf" width="100%" height="980px" />
