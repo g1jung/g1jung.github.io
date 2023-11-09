@@ -1,12 +1,12 @@
 ---
 name: EA SPORTS PGA TOUR
-tools: [C#, Unity Engine, VR, Hack and Slash, AI, 3D, Action]
+tools: [C#, Jira, Jaas, Perforce, Football, Automation, QVE, Sports, College Football, Jenkins]
 image: https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/EASPORTS%20PGA%20TOUR/EASPORTS%20PGA%20TOUR.jpg?raw=true
-description: A VR hack and slash game implemented with Unity Engine.
+description: Newly started franchise game of EA SPORTS. Released in April 2023. I worked as a software engineer I in Quality Engineering Team, working on the automation side.
 ---
 # **EA SPORTS PGA TOUR**
 
-A VR hack and slash game where a giant monster destroys whole city with its punch and laser.
+Newly started franchise game of EA SPORTS. Released in April 2023. I worked as a software engineer I in Quality Engineering Team, working on the automation side.
 <br>
 
 ![preview](https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/EASPORTS%20PGA%20TOUR/EASPORTS%20PGA%20TOUR.jpg?raw=true)
