@@ -1,10 +1,10 @@
 ---
 name: EA SPORTS Madden 23 & 24
-tools: [C#, Unity Engine, VR, Hack and Slash, AI, 3D, Action]
+tools: [C#, Jira, Jaas, Football, Automation, QVE, Sports, Madden23, Madden24, Jenkins]
 image: https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/EASPORTS%20Madden/Madden24.jpg?raw=true
-description: A VR hack and slash game implemented with Unity Engine.
+description: One of the famous franchise games of EA SPORTS. I worked as a software engineer I in Quality Engineering Team, working on the automation side. 
 ---
-# **Kaiju Kabouly**
+# **EA SPORTS Madden 23 & 24**
 
 A VR hack and slash game where a giant monster destroys whole city with its punch and laser.
 <br>
