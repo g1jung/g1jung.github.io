@@ -1,15 +1,15 @@
 ---
-name: Kaiju Kabouly
+name: EA SPORTS PGA TOUR
 tools: [C#, Unity Engine, VR, Hack and Slash, AI, 3D, Action]
-image: https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/Starfish%20SWAT%20Team/SST_title.PNG?raw=true
+image: https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/EASPORTS%20PGA%20TOUR/EASPORTS%20PGA%20TOUR.jpg?raw=true
 description: A VR hack and slash game implemented with Unity Engine.
 ---
-# **Kaiju Kabouly**
+# **EA SPORTS PGA TOUR**
 
 A VR hack and slash game where a giant monster destroys whole city with its punch and laser.
 <br>
 
-![preview](https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/Starfish%20SWAT%20Team/SST_title.PNG?raw=true)
+![preview](https://github.com/g1jung/g1jung.github.io/blob/main/assets/project/EASPORTS%20PGA%20TOUR/EASPORTS%20PGA%20TOUR.jpg?raw=true)
 
 
 ### **Summary**
