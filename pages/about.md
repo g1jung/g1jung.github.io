@@ -33,7 +33,7 @@ In addition to my software engineering skills, I am enjoying traveling, playing/
 
 ### **Education**
 
-![Cumberlands logo](/assets/aboutme/University_of_the_Cumberlands_seal.png){: .image-left }
+![Cumberlands logo](/assets/aboutme/University_of_the_Cumberlands.png){: .image-left }
 MS, **University of the Cumberlands**<br>
 Computer Science<br>
 May 2025 - Present
