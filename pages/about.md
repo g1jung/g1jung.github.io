@@ -33,6 +33,13 @@ In addition to my software engineering skills, I am enjoying traveling, playing/
 
 ### **Education**
 
+![Cumberlands logo](/assets/aboutme/University_of_the_Cumberlands_seal.png){: .image-left }
+MS, **University of the Cumberlands**<br>
+Computer Science<br>
+May 2025 - Present
+<br>
+<br>
+
 ![DigiPen logo](/assets/aboutme/DigiPen_Logo.jpg){: .image-left }
 BS, **DigiPen Institute of Technology**<br>
 Computer Science and Game Design<br>
